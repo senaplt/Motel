@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5v2P7MafXYQ5venFnb43FBX0RPG9Qec0b6P1nsJf3hpD27XQrPYuGJJbyX6r6oT4lnavS/NEdMZMOsdsbugnZg==",
+  "dgSpecHash": "BqRQ4qUQkb7QWxVLTOldVOmjml2SSKwM6rfyBjYgY7eEge50cDfsWD5d9f2H5iVsl/VC8Gq4Mewe7sTUEgiTEg==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace\\Motel\\Motel\\Motel.csproj",
+  "projectFilePath": "D:\\WorkSpace\\GitHub\\Motel\\Motel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sena\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Sena\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

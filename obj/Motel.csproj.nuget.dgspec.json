@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSpace\\Motel\\Motel\\Motel.csproj": {}
+    "D:\\WorkSpace\\GitHub\\Motel\\Motel.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpace\\Motel\\Motel\\Motel.csproj": {
+    "D:\\WorkSpace\\GitHub\\Motel\\Motel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace\\Motel\\Motel\\Motel.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\GitHub\\Motel\\Motel.csproj",
         "projectName": "Motel",
-        "projectPath": "D:\\WorkSpace\\Motel\\Motel\\Motel.csproj",
+        "projectPath": "D:\\WorkSpace\\GitHub\\Motel\\Motel.csproj",
         "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace\\Motel\\Motel\\obj\\",
+        "outputPath": "D:\\WorkSpace\\GitHub\\Motel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
